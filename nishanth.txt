@@ -1,1 +1,3 @@
 new file created with name nishanth.txt
+
+new line added by amith
